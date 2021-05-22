@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hjdeka
+- 👀 I’m interested in learning web development and data analysis
+- 🌱 I’m currently learning python
